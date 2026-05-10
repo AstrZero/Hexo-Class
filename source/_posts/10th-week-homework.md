@@ -6,7 +6,7 @@ tags: 作业
 
 ## 260509 回家作业
 
-![作业内容](10th-week-homework/homework.png)
+![作业内容](homework.png)
 
 ### 语文
 - 《钢铁》资料修改错（3p，至少二十处）
