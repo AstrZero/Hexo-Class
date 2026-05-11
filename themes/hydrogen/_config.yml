@@ -35,7 +35,7 @@ post:
   # 显示更新时间
   show_updated: true
   # 显示版权信息
-  copyright: true
+  copyright: false
 
 # ===== 搜索配置 =====
 search:
